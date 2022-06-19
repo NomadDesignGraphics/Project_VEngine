@@ -44,3 +44,5 @@
 - [Resul Burak Aba](#) (Search)
 
 - [Dimitri](#) (Managing on how to do it  + Search + Morale)
+
+- [Müge Yüksel](https://www.github.com/MugeYuksel) (Managing on ex-py-functions  + Search + Morale)
